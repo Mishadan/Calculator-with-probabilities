@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calculator with probabilities", "Calculator with probabilities\Calculator with probabilities.pyproj", "{ACD98D2A-3AA1-45E7-9303-94A7CDE2DE16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD98D2A-3AA1-45E7-9303-94A7CDE2DE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD98D2A-3AA1-45E7-9303-94A7CDE2DE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {246FB234-641B-44AE-BED3-B585E31CD148}
+	EndGlobalSection
+EndGlobal
